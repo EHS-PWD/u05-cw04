@@ -1,4 +1,4 @@
-### U05-CW04 - Backgrounds and Borders (Lab)
+### U05-CW04 - Backgrounds and Borders
 
 **Objective:**  
 Students will enhance the "Russian Tortoises" website using CSS properties for borders and backgrounds. This assignment introduces `border-color`, `border-style`, `border-width`, `background-color`, `background-image`, `background-repeat`, `background-size`, `background-gradient`, and `background-position`.
